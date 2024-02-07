@@ -15,4 +15,4 @@ As an AI-powered app for improving and tracking the retention of medical knowled
 
 ## Solution Code Description
 
-This repository contains dart files of UI mockups of our solution developed in FlutterFlow. We intend to refine the code in future to be integrated into a working Flutter desktop application. The screenshots of the mockups can be found under the folder flutterflow_mockups
+This repository contains dart files of UI mockups of our solution developed in FlutterFlow under the folder codes. We intend to refine the code in future to be integrated into a working Flutter desktop application. The screenshots of the mockups can be found under the folder flutterflow_mockups.
